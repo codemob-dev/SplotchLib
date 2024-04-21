@@ -19,7 +19,5 @@ namespace SplotchLib
             Player player = PlayerHandler.Get().GetPlayer(idHolder.GetPlayerId());
             return player;
         }
-
-
     }
 }
