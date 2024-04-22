@@ -19,7 +19,7 @@ namespace SplotchLib
         {
             if (scene.name == "MainMenu")
             {
-                ModNames.AddOverlay();
+                NodMames.AddOverlay();
             }
         }
     }

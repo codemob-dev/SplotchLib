@@ -6,7 +6,7 @@ using BepInEx.Bootstrap;
 
 namespace SplotchLib
 {
-    internal static class ModNames
+    internal static class NodMames
     {
         public static void AddOverlay()
         {
