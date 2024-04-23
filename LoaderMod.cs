@@ -1,4 +1,4 @@
-﻿using BepInEx;
+using BepInEx;
 using UnityEngine.SceneManagement;
 using System;
 
@@ -24,7 +24,7 @@ namespace SplotchLib
         }
     }
     [AttributeUsage(AttributeTargets.Class, Inherited = false, AllowMultiple = false)]
-    sealed class BepInSplotchAttribute : Attribute
+    public sealed class BepInSplotchAttribute : Attribute
     {
         readonly string[] authors;
         public BepInSplotchAttribute(string[] authors)
