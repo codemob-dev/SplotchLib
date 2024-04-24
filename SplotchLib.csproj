@@ -433,7 +433,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NodMames.cs" />
     <Compile Include="GUI.cs" />
     <Compile Include="LoaderMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
