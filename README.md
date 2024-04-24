@@ -11,7 +11,7 @@
 SplotchLib is the next generation of [Splotch](https://github.com/codemob-dev/splotch) (A mod loader for the game [Bopl Battle]()), now designed as a [BepInEx]() library mod.
 
 ## Table of Contents
-1. [Installation](#installation-guide)
+1. [Using](#usage-for-mod-makers)
 2. [Roadmap](#roadmap)
 3. [Contributing](#contributing)
 4. [Credits](#credits)
@@ -19,7 +19,7 @@ SplotchLib is the next generation of [Splotch](https://github.com/codemob-dev/sp
 6. [Help](#help)
 
 
-## Installation Guide
+## Usage (for mod makers)
 1. Add `SplotchLib.dll` as an assembly reference.
 2. Update your mod's main class with this:
 ```c#
@@ -27,7 +27,7 @@ SplotchLib is the next generation of [Splotch](https://github.com/codemob-dev/sp
 [BepInSplotch(authors: new string[]{ "Yourname" })]
 [BepInPlugin("someGUID", "MyMod", "0.1.0")]
 ```
-and add the reference:
+And add the reference:
 ```c#
 using SplotchLib;
 ```
@@ -38,14 +38,11 @@ using SplotchLib;
 - [x] Working API
 - [x] Mod Names
 ### APIs
-- [x] Event API (More events needed)
 - [ ] BGL (Bopl Graphics Lib) (in progress)
 - [ ] Ability API (in progress)
 - [ ] Networking Lib (in progress)
 ### Other Features
 - [x] General utility class
-- [x] BepInEx compatibility
-- [ ] Built-in mod manager
 
 ## Features
 ### Implemented
@@ -64,7 +61,7 @@ Contributions to SplotchLib are welcome! Feel free to check out the [issues](htt
 
 ORIGINAL SPLOTCH
 - **Developer**: Codemob
-- **Developer**: WackyModder
+- **Developer**: WackyModer
 - **Contributer**: Almafa64
 - **Wiki, Docs & Contributer**: Melon
 
