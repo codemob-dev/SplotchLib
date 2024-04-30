@@ -38,8 +38,6 @@ using SplotchLib;
 - [x] Working API
 - [x] Mod Names
 ### APIs
-- [ ] BGL (Bopl Graphics Lib) (in progress)
-- [ ] Ability API (in progress)
 - [ ] Networking Lib (in progress)
 ### Other Features
 - [x] General utility class
