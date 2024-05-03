@@ -8,6 +8,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/codemob-dev/SplotchLib?style=plastic)](https://github.com/commandblox/Splotch/issues)
 [![Maintenance](https://img.shields.io/badge/maintenance-yes-brightgreen?style=plastic)](#)
 
+### SPLOTCHLIB IS NO LONGER IN DEVELOPMENT. ANY API'S WILL FUNCTION AS A SEPARATE LIBRARY MOD.
+
 SplotchLib is the next generation of [Splotch](https://github.com/codemob-dev/splotch) (A mod loader for the game [Bopl Battle]()), now designed as a [BepInEx]() library mod.
 
 ## Table of Contents
